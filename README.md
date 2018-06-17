@@ -1,0 +1,2 @@
+# SimpleTestForPython3
+一些关于python3的简单的小demo，主要是实现一些简单的函数
